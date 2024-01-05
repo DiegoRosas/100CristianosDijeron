@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Orbitron";   /*Can be any text*/
+  src: local("Orbitron"),
+    url("./Orbitron/Orbitron-VariableFont_wght.ttf") format("truetype");
+}
